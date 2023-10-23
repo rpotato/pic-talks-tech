@@ -1,5 +1,7 @@
 # Pic Talks Tech
 
+## [Architecture Dsign](./architecture/architecture.md)
+
 ## [Data Exchange](./data-exchange/data-exchange.md)
 
 ### Authentication

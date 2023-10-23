@@ -2,7 +2,7 @@
 
 ![JWT](jwt.jpeg)
 
-<https://twitter.com/alexxubyte/status/1713571199635308792>
+[link](https://twitter.com/alexxubyte/status/1713571199635308792)
 
 Imagine you have a special box called a JWT. Inside this box, there are three parts: a header, a payload, and a signature.
 
