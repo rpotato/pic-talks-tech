@@ -9,3 +9,9 @@
 
 ![Database shading](Database-Sharding-v3.jpg)
 [link](https://architecturenotes.co/database-sharding-explained/)
+
+## Redis
+
+![Redis](redis.jpeg)
+[link](https://architecturenotes.co/redis/)
+
