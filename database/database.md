@@ -18,3 +18,9 @@
 - Document DB: A document database is a kind of database that stores information in a format similar to JSON. It's different from traditional databases and is made for working with documents instead of tables.
 
 - Column DB: Imagine slicing and dicing your data like a chef prepping ingredients. It's efficient and speedy.
+
+## Sharding
+
+![Database shading](Database-Sharding-v3.jpg)
+[link](https://architecturenotes.co/database-sharding-explained/)
+
