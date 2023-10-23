@@ -28,3 +28,7 @@ These codes are defined in RFC 9110.
 - Secure Data Transmission: Navigating the Tunnel — Journey through the encrypted tunnel forged by HTTPS. Learn how your information travels while shielded from cyber threats.
 
 - HTML's Role: Peek into HTML's role in structuring the web. Uncover how hyperlinks and content come together seamlessly. And why is it called HYPER TEXT.
+
+## CORS (Cross-Origin Resource Sharing)
+
+![CORS](cors.jpeg)
