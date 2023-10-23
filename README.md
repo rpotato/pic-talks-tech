@@ -7,6 +7,7 @@
 ### Authentication
 
 * [JSON Web Token (JWT)](./data-exchange/JWT.md)
+* [OAuth 2.0](./data-exchange/oauth2.md)
 
 ## [Network](./network/network.md)
 
